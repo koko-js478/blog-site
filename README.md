@@ -53,7 +53,7 @@ If you want to test my project or do whatever you want, here's a little guide:
 First clone this repository using git clone into your local machine:
 
 ```
-$ git clone https://github.com/rsupanta/django-blog.git
+$ git clone https://github.com/softengineer123/blog-site.git
 ```
 
 ### Setting up Project Environment
@@ -105,7 +105,7 @@ $ pip install -r requirments.txt
 ### Modifying 'settings.py'
 
 I have used environment variable to hide my credentials in
-django-blog>settings.py <br/>
+blog-site>settings.py <br/>
 So you have to replace those with your own.<br/>
 If you want to use the environment variable, simply create a ".env" file in root of project directory where "manage.py" is located and add this lines below:
 
@@ -190,7 +190,7 @@ $ python manage.py runserver
 If everything above goes well, you'll see this:
 
 ```
-Django version 3.0.5, using settings 'django-blog.settings'
+Django version 3.0.5, using settings 'blog-site.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
 ```

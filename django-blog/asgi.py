@@ -1,5 +1,5 @@
 """
-ASGI config for django-blog project.
+ASGI config for blog-site project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
