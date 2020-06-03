@@ -1,10 +1,9 @@
 # Django Blog App
 
-The idea was to build a basic blogging platform.
+## Description
+The app provides a basic and simple blogging platform.
 
-It was made using Python 3.8.1 and Django 3.0.5<br/>
-For Database, I've used PostgreSQL.<br/>
-Bootstrap 4 alongside with CSS used for primary styling.
+It is developed using Python 3.8.1, Django 3.0.5, and PostgreSQL as database. On front-end, used Bootstrap 4 alongside with CSS for primary styling.
 
 ## Features
 
@@ -198,5 +197,3 @@ Quit the server with CTRL-BREAK.
 Go to the web browser, visit http://localhost:8000/ and start testing the app.<br/>
 
 Admin panel available at http://localhost:8000/admin/ login using superuser credentials that you've created earlier.
-
-### Thanks for your time.
